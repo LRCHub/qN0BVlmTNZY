@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Sunny drop (From THE FIRST TAKE)",
+  "base_artist": "Novelbright",
+  "createdAt": "2026-02-20T13:09:39.535973Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sunny drop (From THE FIRST TAKE)",
+      "artist": "Novelbright",
+      "has_synced": true,
+      "path": "select/01_Sunny_drop_(From_THE_FIRST_TAKE)_Novelbright.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sunny drop - From THE FIRST TAKE",
+      "artist": "Novelbright",
+      "has_synced": false,
+      "path": "select/pl_01_Sunny_drop_-_From_THE_FIRST_TAKE_Novelbright.txt"
+    }
+  ]
+}
